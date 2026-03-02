@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.test.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>hmmodz</name>
+    <content src="index.html" />
+    <icon src="icon.png" />
+    <preference name="Orientation" value="portrait" />
+    <preference name="Fullscreen" value="true" />
+</widget>
